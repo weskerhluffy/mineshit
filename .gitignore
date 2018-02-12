@@ -8,3 +8,9 @@ src/mine/caca_chica.log
 src/mine/caca_grande.log
 
 src/mine/caca.log
+
+*.class
+
+src/mine/small.in
+
+src/mine/small.out
